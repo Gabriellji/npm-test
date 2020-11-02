@@ -1,0 +1,19 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "node"
+  ],
+  "author": "Gabriell",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
